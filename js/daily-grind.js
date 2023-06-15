@@ -7,7 +7,6 @@ function coffeeTemplate(){
     <strong class="feature">${coffee.day} Coffee Special:</strong> ${coffee.day} daily coffee special is <strong class="feature">${coffee.name}</strong>, ${coffee.desc}</p>
     `;
 
-
 }
 
 
